@@ -21,8 +21,6 @@ def tsp(cities):
         shortest_distance=float('inf')
         shortest_index=None
         
-    #loop dmn nanti i di plus stu ktika nyampe ke city brikut abis itu klo dh nympe city akhir ituin blik ke awal.
-        #loop buat cri shortest distance stu per stu dicek contoh kalo mulai dri 0,0 trus mo ke 0,1 cek distance
         for i in range(len(cities)): 
             if i not in visited:
                     dist=distance(cities[city_now],cities[i])
