@@ -1,6 +1,5 @@
-1. Hill climbing Method
-2. Nearest Neighbor Method, heuristic method
-
+1. Nearest Neighbor Method, heuristic method
+2. Hill climbing Method   
 
 Notes: I thought I can use any method but then I read the big title: you need to use hill climbing method. since its a waste to delete what i did till finish with the other method, that is why i submitted both methods.
 
