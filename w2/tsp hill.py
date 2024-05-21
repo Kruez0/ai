@@ -17,14 +17,14 @@ def hill_climbing_tsp(max_iterations):
     distanceNow = total_distance(solution)
     
     for _ in range(max_iterations):
-        new_solution = solution[:]
+        a = solution[:]
         i, j = sorted(random.sample(range(len(solution)), 2))
-        new_solution[i], new_solution[j] = new_solution[j], new_solution[i] 
-        distanceNew = total_distance(new_solution)
+        a[i], a[j] = a[j], a[i] 
+        distancea = total_distance(a)
         
-        if distanceNew < distanceNow:
-            solution= new_solution
-            distanceNow=distanceNew
+        if distancea < distanceNow:
+            solution= a
+            distanceNow=distancea
     
     return solution, distanceNow
 
