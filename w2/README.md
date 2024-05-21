@@ -12,10 +12,9 @@ so heuristic method is a method that got not the most optimal solution but still
 #hill climb method
 with Hill climb you need to do the program MANY times and then you fill the most best solution.(since hill climb method finds the solution from global max(many hills) not neighbor max(some/one hill only)). In the code I did I watch youtube videos and understand all of it.
 These are the solution :
----
-**NOTE**
 ![final](image.png)
-
+---
+>**NOTE**
 Optimal Tour Order: [4, 1, 3, 9, 7, 6, 8, 0, 5, 2]
 Optimal Tour Distance: 20.79669127533634
 From (1, 1) to (4, 1), Distance: 3.0
@@ -28,5 +27,4 @@ From (3, 7) to (0, 6), Distance: 3.1622776601683795
 From (0, 6) to (1, 3), Distance: 3.1622776601683795
 From (1, 3) to (1, 2), Distance: 1.0
 From (1, 2) to (1, 1), Distance: 1.0
-
 ---
