@@ -1,16 +1,24 @@
 # LINEAR PROGRAMMING
->I used Simplex method to see the optimal solution. The result of the optimal solution that I wrote on the paper is the amount of x which is 3.4, y which is 6.6, z which is 2.2 and the maximazed amount which is 34.4. The final solution of the code should be the same as the result of the simplex method that I wrote on the paper or it should be more optimal.    
+I used Simplex method to see the optimal solution by hand. The result of the optimal solution that I wrote on the paper is the amount of x which is 3.4, y which is 6.6, z which is 2.2 and the maximized amount which is 34.4. From this calculations, the final solution of the code should be the **same** as the result of the simplex method that I wrote on the paper or it should be **more optimal**.    
 
-<img src="image.png" alt="Simplex Result" width="100"/>
-<img src="image-1.png" alt="Simplex Result 2" width="100"/>
+<img src="image.png" alt="Simplex Result" width="300"/>
+<img src="image-1.png" alt="Simplex Result 2" width="300"/>
 
-## I wrote two codes. The first one I did was using random. These are the results:
+### The codes I wrote:
+### - Using Random
+### - Using Brute Force
+## Linear Programming with Random   
+
 ```
 Approximate optimal value: 34.28
 Approximate optimal solution (x, y, z): (3.3, 6.19, 2.4)
-```
+```   
+
 >From above, we can see that it's not the most optimized solutions eventhough I put the max iterations 500000 times.
->That is why I wrote another code that that tests one by one of each x,y and z values for +0.1 values. These are the result:
+## Linear Programming with Brute   
+
+>I wrote another code that that tests one by one of each x,y and z values for +0.1 values because the previous code that I did, haven't had an optimal solution. These are the results:   
+
 ```
 Approximate optimal value: 34.4
 Approximate optimal solution (x, y, z): (3.4, 6.6, 2.2)
