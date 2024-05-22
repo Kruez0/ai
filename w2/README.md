@@ -1,13 +1,13 @@
 ### 1. Nearest Neighbor Method, heuristic method
 ### 2. Hill climbing Method   
 
-Notes: I thought I can use any method but then I read the big title: you need to use hill climbing method. since its a waste to delete what i did till finish with the other method, that is why i submitted both methods.
+>Notes: I thought I can use any method but then I read the big title: you need to use hill climbing method. since its a waste to delete what i did till finish with the other method, that is why i submitted both methods.
 
 
 ## **Nearest Neighbor Method**   
->For the first part of the code is the same as teachers' code. the next part is what i did by myself. I use youtube videos to understand the concept and chatgpt to only help me remember the things that i forgot and all the things i missed. 
+For the first part of the code is the same as teachers' code. the next part is what i did by myself. I use youtube videos to understand the concept and chatgpt to only help me remember the things that i forgot and all the things i missed. 
 
->To finish this homework, I watch youtube videos about methods to calculate distance from coordinate and also found out about heuristic method.so heuristic method is a method that got not the most optimal solution but still produce a good result. In this method, I first make a random start point and then try to find the shortest distance possible to go to another coordinate. after I found the shortest distance, I move on to that new coordinate and find again another shortest distance from that new coordinate. This all went on until all the coordinates are visited and i finally got the shortest path, total distance, and the coordinates from this heuristic method.  Result :
+To finish this homework, I watch youtube videos about methods to calculate distance from coordinate and also found out about heuristic method.so heuristic method is a method that got not the most optimal solution but still produce a good result. In this method, I first make a random start point and then try to find the shortest distance possible to go to another coordinate. after I found the shortest distance, I move on to that new coordinate and find again another shortest distance from that new coordinate. This all went on until all the coordinates are visited and i finally got the shortest path, total distance, and the coordinates from this heuristic method.  Result :
 ```
 From (4, 1) to (5, 3), Distance: 2.23606797749979
 From (5, 3) to (3, 3), Distance: 2.0
