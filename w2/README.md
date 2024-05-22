@@ -24,7 +24,8 @@ Path coordinates: [(4, 1), (5, 3), (3, 3), (2, 3), (1, 3), (1, 2), (1, 1), (2, 5
 ```
 ## **Hill Climb Method**   
 with Hill climb you need to do the program MANY times and then you fill the most best solution.(since hill climb method finds the solution from global max(many hills) not neighbor max(some/one hill only)). In the code I did I watch youtube videos and understand all of it.
-These are the solution :
+These are the solution :   
+
 <img src="image.png" alt="Hill Climbing Plot" width="200"/>
 ```
 Optimal Tour Order: [4, 1, 3, 9, 7, 6, 8, 0, 5, 2]
