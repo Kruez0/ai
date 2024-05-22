@@ -1,8 +1,10 @@
-***LINEAR PROGRAMMING***
-> I used Simplex method to see the optimal solution. The result of the optimal solution that I wrote on the paper is the amount of x which is 3.4, y which is 6.6, z which is 2.2 and the maximazed amount which is 34.4. The final solution of the code should be the same as the result of the simplex method that I wrote on the paper or it should be more optimal. 
-![alt text](image.png)
-![alt text](image-1.png)
-> I wrote two codes. The first one I did was using random. These are the results:
+# LINEAR PROGRAMMING
+>I used Simplex method to see the optimal solution. The result of the optimal solution that I wrote on the paper is the amount of x which is 3.4, y which is 6.6, z which is 2.2 and the maximazed amount which is 34.4. The final solution of the code should be the same as the result of the simplex method that I wrote on the paper or it should be more optimal.    
+
+<img src="image.png" alt="Simplex Result" width="100"/>
+<img src="image-1.png" alt="Simplex Result 2" width="100"/>
+
+## I wrote two codes. The first one I did was using random. These are the results:
 ```
 Approximate optimal value: 34.28
 Approximate optimal solution (x, y, z): (3.3, 6.19, 2.4)
