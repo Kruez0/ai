@@ -4,7 +4,7 @@ I just used laoshi's code and then modify it according to the instructions
 ## Explanation   
 There are 4 parameters in cartpole's "observation":   
 
-<img src="cartt.png" width="400"/>    
+<img src="Cartt.png" width="400"/>    
 
 - x: the horizontal position of the cart (positive means to the right)   
 - v: the horizontal velocity of the cart (positive means moving to the right)   
