@@ -1,6 +1,7 @@
 # CHESS Alpha Beta Pruning
-I did it by watching videos from this https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=RMUKH819fs5dkWMv , websites, and repositories.
+I did it by watching videos from this https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=RMUKH819fs5dkWMv , websites, and repositories and I understand!
 The video teaches me so much about chess.
+<img src="vid.png" width="400"/>  
 I didn't know making a chess game will be this long and hard ;-;
 ## Designs
 I got carried away with designing
