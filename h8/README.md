@@ -1,5 +1,5 @@
 # Cartpole Simulation    
-I just used laoshi's code and then modify it according to the instructions   
+>I just used laoshi's code and then modify it according to the instructions   
 
 ## Explanation   
 There are 4 parameters in cartpole's "observation":   

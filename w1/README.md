@@ -1,13 +1,12 @@
-NP-complete:
+# NP-complete:
 
-How I understand, 
-youtube: https://www.youtube.com/watch?v=e2cF8a5aAhE&t=1576s&ab_channel=AbdulBari
+>How I understand, youtube: https://www.youtube.com/watch?v=e2cF8a5aAhE&t=1576s&ab_channel=AbdulBari
 
 Np-complete is a problem where it is non deterministic and polynomial. non-deterministic meaning that it will be reseaarched more by people in the future because now it is still undetermined on how to do the code. polynomial time meaning that the problem was exponential time (2^n) and to make it easier and faster to solve effectively, we want to change it from exponential to polynomial time. Some of the NP-complete problem examples are knapsack, tsp etc.
 
-Fractional Knapsack Problem:
+## Fractional Knapsack Problem:
 
-How I understand, youtube: https://www.youtube.com/watch?v=m1p-eWxrt6g&ab_channel=GeeksforGeeks
+>How I understand, youtube: https://www.youtube.com/watch?v=m1p-eWxrt6g&ab_channel=GeeksforGeeks
 
 A problem where there will be many items each item have different weights and values. This problem would like to know the most optimized way to maximize the value but also ensuring that the weight does not exceed the max weight limit.
 

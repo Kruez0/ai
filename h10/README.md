@@ -1,5 +1,5 @@
 # RAG (REAL AUGMENTED GENERATION)
-For this project i used chatgpt and fully understand it.
+>For this project i used chatgpt and fully understand it.
 
 ## Results 
 ```   

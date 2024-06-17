@@ -1,4 +1,5 @@
 # LINEAR PROGRAMMING
+> Was done by youtube and when I forgot something I asked Chatgpt.
 ## Simplex Method by Hand
 I used Simplex method to see the optimal solution by hand. The result of the optimal solution that I wrote on the paper is the amount of x which is 3.4, y which is 6.6, z which is 2.2 and the maximized amount which is 34.4. From this calculations, the final solution of the code should be the **same** as the result of the simplex method that I wrote on the paper or it should be **more optimal**.    
 

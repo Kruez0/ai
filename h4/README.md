@@ -1,4 +1,5 @@
 # Neural Networks and Backpropagation
+> Saw the website, did it by myself.
 Answer:   
 <img src="h4.png" alt="Hill Climbing Plot" width="500"/>   
 

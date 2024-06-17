@@ -1,6 +1,6 @@
 ### 1. Nearest Neighbor Method, heuristic method
 ### 2. Hill climbing Method   
-
+>How to Make : Watched Youtube videos and understand!
 >Notes: I thought I can use any method but then I read the big title: You need to use hill climbing method!
 Since it's a waste to delete what I did till finish with the other method, that is why I submitted both methods.
 

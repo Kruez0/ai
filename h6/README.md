@@ -1,5 +1,5 @@
 # Macrograd w/ Nmist & Cross Entropy Loss
-I got confused but I understand now. This was done by looking laoshi's mmist and cross entrophy loss.
+>I got confused but I understand now. This was done by looking laoshi's mmist and cross entrophy loss.
 
 ## Definition   
 

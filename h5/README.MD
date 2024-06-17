@@ -1,5 +1,5 @@
 # GRADIENT DESCENT    
-How I do it: I watched the WHOLE Karpathy video (especially about gradient descent on 2:05:52)(I also wrote notes at /h5/Notes of Micrograd) and teachers hints and code. 
+>How I do it: I watched the WHOLE Karpathy video (especially about gradient descent on 2:05:52)(I also wrote notes at /h5/Notes of Micrograd) and teachers hints and code. 
 
 ## 1. Gradient Array   
 I watch katarphy's video and saw how he does it. When I watch him, he uses MSE to find the loss. But, since the function created is already a loss function, it does not need to do MSE. So, we just need to do a backpropagation and then change the value of the initial input like +-0,01 and then times the gradient. Finally, we'll know can see the gradient descend by itself. At first this is what the codes look like. 

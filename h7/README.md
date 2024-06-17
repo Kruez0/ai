@@ -1,6 +1,6 @@
 # Training Models
 
-參考 https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html and laoshi's code
+>參考 https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html and laoshi's code
 
 ## Results
 
