@@ -1,5 +1,5 @@
 # CHESS Alpha Beta Pruning
-I did it by watching videos from this https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=RMUKH819fs5dkWMv , websites, and repositories and I understand!
+I did it by watching videos from this https://youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_&si=RMUKH819fs5dkWMv , websites, and repositories. All was done by watching, understand, and then write and some of the chess pieces moves programming was done by myself when the person in the youtube vid said to do it by myself. 
 The video teaches me so much about chess.
 <img src="vid.png" width="400"/>  
 I didn't know making a chess game will be this long and hard ;-;
