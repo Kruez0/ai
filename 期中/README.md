@@ -28,4 +28,7 @@ rookScores = [
 There should be a middle game evaluation and an end game evaluation. So, for example the positional scores for each pieces should be different according to what game evaluation is it in. I tried to find papers that holds any chess positional numbers but i didnt find any. That is why for this project I only did one evaluation of positional numbers for the whole game.
 <img src="chess4.png" width="400"/>   
 
+### Final results
+
+![alt text](<chez.gif>)
 
