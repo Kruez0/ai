@@ -1,16 +1,28 @@
-# Chess using Alpha Beta Pruning
-Built a turn-based chess with artificial Intelligence using minmax and alpha-beta pruning to optimize decision making, practiced  search algorithms and game strategy evaluation.
-## Alpha Beta Pruning
-Alpha-Beta pruning is an optimization technique for the Minimax algorithm. It reduces the number of nodes evaluated in the search tree by eliminating branches that cannot influence the final decision.The Chess AI uses a combination of Alpha-Beta pruning and the Negamax algorithm to efficiently search through possible moves and select the best one. Negamax Algorithm is a variant of Minimax optimized for zero-sum games like chess.
+# Chess AI using Alpha-Beta Pruning
 
-In this project,I tried to assign numbers for each pieces. 
-```
+Built a turn-based chess game with artificial intelligence using **Minimax** and **Alpha-Beta Pruning** to optimize decision-making. Gained hands-on experience with adversarial search, game state evaluation, and strategic gameplay development.
+
+---
+
+## AI Algorithm
+
+The Chess AI uses a combination of **Alpha-Beta Pruning** and the **Negamax Algorithm**, an optimization of Minimax for zero-sum games like chess.
+
+- **Alpha-Beta Pruning** reduces the number of nodes evaluated in the search tree by eliminating branches that cannot influence the final decision.
+- **Negamax** simplifies Minimax by assuming the opponent’s best outcome is the negative of your best outcome.
+
+---
+
+## Evaluation Function
+
+To evaluate board positions, I assigned numeric values to pieces and created a basic positional score table. Example:
+
+```python
 rookScores = [
     [0.25, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.25],
-    ....]
-```
-
-There should be a middle game evaluation and an end game evaluation. So, for example the positional scores for each pieces should be different according to what game evaluation is it in. I tried to find papers that holds any chess positional numbers but i didnt find any. That is why for this project I only did one evaluation of positional numbers for the whole game.
+    ...
+]
+Professional engines often use different evaluation criteria for the mid-game and end-game. I attempted to implement that, but due to limited research material on positional scores, this version uses a single evaluation approach for the entire game.
 <img src="chess4.png" width="400"/>  
 
 ## Designs
@@ -24,6 +36,7 @@ There should be a middle game evaluation and an end game evaluation. So, for exa
 
 <img src="chess3.5.png" width="400"/>    
 
-### Final results
+## Final Chess UI
+
 ![alt text](<chez.gif>)
 
